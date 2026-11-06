@@ -1,0 +1,26 @@
+[
+  {
+    "pos": { "x": 0, "y": 350 },
+    "thumbnail": "talk.png",
+    "data": {
+      "title": "“Talk to the Hand” is a casual, cooperative first-person video game where communication is key.",
+      "link": "https://github.com/JaiderSalas/Talk-to-the-Hand"
+    }
+  },
+  {
+    "pos": { "x": 0, "y": 850 },
+    "thumbnail": "flappy.png",
+    "data": {
+      "title": "FlappyBird clone for practice Game development",
+      "link": "https://github.com/JaiderSalas/FlappyJack"
+    }
+  },
+  {
+    "pos": { "x": 0, "y": 1330 },
+    "thumbnail": "bingo.png",
+    "data": {
+      "title": "Multiplayer online virtual bingo, built using react and socket.io",
+      "link": "https://github.com/JaiderSalas/bingo_virtual"
+    }
+  }
+]

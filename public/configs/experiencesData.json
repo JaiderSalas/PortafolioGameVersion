@@ -1,0 +1,54 @@
+[
+  {
+    "pos": { "x": 150, "y": -100 },
+    "cardHeight": 250,
+    "roleData": {
+      "title": "Systems Engineer",
+      "description": "I got my Bachelor's degree in Systems Engineering from the University of Cartagena.",
+      "company": {
+        "name": "University of Cartagena",
+        "startDate": "Feb 2019",
+        "endDate": "Nov 2024"
+      }
+    }
+  },
+  {
+    "pos": { "x": 150, "y": 180 },
+    "cardHeight": 250,
+    "roleData": {
+      "title": "Game developer and interactive environments",
+      "description": "I am currently pursuing my associate degree in Game Development and Interactive Environments at SENA, where I am honing my skills in creating immersive digital experiences.",
+      "company": {
+        "name": "SENA",
+        "startDate": "Nov 2025",
+        "endDate": "Present"
+      }
+    }
+  },
+  {
+    "pos": { "x": 1000, "y": -100 },
+    "cardHeight": 250,
+    "roleData": {
+      "title": "Data Analyst",
+      "description": "I am currently working as a Data Analyst at SOLVO GLOBAL SAS, where I analyze and interpret complex data sets to provide actionable insights that drive business decisions.",
+      "company": {
+        "name": "SOLVO GLOBAL SAS",
+        "startDate": "Mar 2025",
+        "endDate": "Present"
+      }
+    }
+  },
+  {
+    "pos": { "x": 1000, "y": 180 },
+    "cardHeight": 250,
+    "roleData": {
+      "title": "Data Engineer",
+      "description": "I worked as a Data Engineer at SURA, where I was responsible for designing and implementing data pipelines, ensuring data quality, and optimizing data storage solutions to support the company's analytics initiatives.",
+      "company": {
+        "name": "SURA",
+        "startDate": "Aug 2024",
+        "endDate": "Dec 2024"
+      }
+    }
+  }
+]
