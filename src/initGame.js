@@ -7,7 +7,7 @@ import makeKaplayCtx from "./kaplayCtx";
 import { cameraZoomValueAtom, store } from "./store";
 import { makeAppear } from "../utils";
 import makeSkillIcon from "./components/SkillIcon";
-import makeWorkExperienceCard from "./components/workExperienceCard";
+import makeWorkExperienceCard from "./components/WorkExperienceCard";
 import makeProjectCard from "./components/ProjectCard";
 export default async function initGame(){
 
